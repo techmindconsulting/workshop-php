@@ -30,7 +30,7 @@
 
 ### Exercice 8
 ###### Dans la chaine "PHP 8  \n est aussi intérréssant \n que Javascript ou \n Python"
-###### remplacer les caractères \n par <br /> en utilisant deux méthodes différentes
+###### remplacer les caractères "\n" par "<br />" en utilisant deux méthodes différentes
 ######  1. une fonction
 ######  2. expression régulière
 
