@@ -1,6 +1,6 @@
 # workshop-php
 
-### Variables, constantes et types
+### [Variables, constantes et types](variables-constantes-types.md)
 
 ### Instructions de contrôle
 
