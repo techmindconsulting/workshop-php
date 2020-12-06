@@ -2,7 +2,7 @@
 
 ### [TP 1 : Variables, constantes et types](variables-constantes-types.md)
 
-### [TP 2 : Instructions de contrôle]()
+### [TP 2 : Instructions de contrôle](instructions-controle.md)
 
 ### [TP 3 : Chaines de caractères]()
 
