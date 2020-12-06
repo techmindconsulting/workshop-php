@@ -1,4 +1,4 @@
-### Variables Constantes et types (Version PHP 7.x)
+### TP 1 Variables Constantes et types (Version PHP 7.x)
 ### Exercice 1
 ##### Parmi les variables suivantes, lesquelles ont un nom valide :
 * mavariable
