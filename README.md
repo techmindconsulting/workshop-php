@@ -1,27 +1,27 @@
 # workshop-php
 
-### [Variables, constantes et types](variables-constantes-types.md)
+### [TP 1 : Variables, constantes et types](variables-constantes-types.md)
 
-### Instructions de contrôle
+### [TP 2 : Instructions de contrôle]()
 
-### Chaines de caractères
+### [TP 3 : Chaines de caractères]()
 
-### Les tableaux
+### [TP 4 : Les tableaux]()
 
-### Les formulaires
+### [TP 5 : Les formulaires]()
 
-### Les fonctions
+### [TP 6 : Les fonctions]()
 
-### Dates
+### [TP 7 : Dates]()
 
-### Programmation objet
+### [TP 8 : Programmation objet]()
 
-### Les fichiers
+### [TP 9 : Les fichiers]()
 
-### Cookies et sessions
+### [TP 10 : Cookies et sessions]()
 
-### Emails
+### [TP 11 : Emails]()
 
-### PDO et MySQL
+### [TP 12 : PDO et MySQL]()
 
 
