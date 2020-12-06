@@ -4,7 +4,7 @@
 
 ### [TP 2 : Instructions de contrôle](instructions-controle.md)
 
-### [TP 3 : Chaines de caractères]()
+### [TP 3 : Chaines de caractères](chaines-caracteres.md)
 
 ### [TP 4 : Les tableaux]()
 
